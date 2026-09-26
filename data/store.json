@@ -1,0 +1,560 @@
+{
+  "site": {
+    "brand": "Keymel Çiçekçilik",
+    "phone": "0506 144 57 06",
+    "whatsapp": "905061445706",
+    "email": "39keymel39@gmail.com",
+    "instagram": "https://www.instagram.com/keymel_cicekcillik.39/",
+    "instagramLabel": "@keymel_cicekcillik.39",
+    "address": "Kocasinan Mahallesi, Acı Çeşme Sk. No:64/A1, eski itfaiye karşısı köşe, 39750 Lüleburgaz/Kırklareli",
+    "maps": "https://www.google.com/maps/place/Kocasinan,+Ac%C4%B1+%C3%87e%C5%9Fme+Sk.+64%2FB,+39750+L%C3%BCleburgaz%2FK%C4%B1rklareli/@41.4066779,27.3480027,21z/",
+    "heroTitle": "Çiçekler, duyguların en zarif hâlidir.",
+    "heroText": "Keymel Çiçekçilik'te günlük taze çiçeklerden özel tasarım buketlere, çelenklerden araç süslemelerine kadar özel anlarınıza uygun çalışmalar hazırlıyoruz.",
+    "announcement": "Sipariş ve bilgi: 0506 144 57 06",
+    "discountEnabled": false,
+    "discountPercent": 0,
+    "discountLabel": "Mağaza Kampanyası",
+    "logo": "",
+    "favicon": "",
+    "heroBanner": "",
+    "mobileBanner": "",
+    "galleryImages": [],
+    "ordersEnabled": true,
+    "deliveryEnabled": true,
+    "pickupEnabled": true,
+    "deliveryFee": 75,
+    "freeDeliveryThreshold": 1000,
+    "minimumOrder": 250,
+    "prepMinutes": 120,
+    "slotMinutes": 30,
+    "slotCapacity": 5,
+    "sameDayEnabled": true,
+    "workingHours": {
+      "0": [
+        "10:00",
+        "18:00"
+      ],
+      "1": [
+        "09:00",
+        "19:00"
+      ],
+      "2": [
+        "09:00",
+        "19:00"
+      ],
+      "3": [
+        "09:00",
+        "19:00"
+      ],
+      "4": [
+        "09:00",
+        "19:00"
+      ],
+      "5": [
+        "09:00",
+        "19:00"
+      ],
+      "6": [
+        "09:00",
+        "19:00"
+      ]
+    },
+    "closedDates": [],
+    "deliveryDistrict": "Lüleburgaz",
+    "deliveryCity": "Kırklareli",
+    "pickupAddress": "Kocasinan Mahallesi, Acı Çeşme Sk. No:64/A1, eski itfaiye karşısı köşe, 39750 Lüleburgaz/Kırklareli",
+    "pushEnabled": false
+  },
+  "services": [
+    {
+      "title": "Kişiye Özel Çelenk",
+      "desc": "Kişiye ve organizasyona uygun çelenk çalışmaları hazırlanır."
+    },
+    {
+      "title": "Araba Süsleme",
+      "desc": "Düğün, kına, nişan ve sünnet gibi özel günlere uygun araç süslemeleri."
+    },
+    {
+      "title": "Çiçek Buketleri",
+      "desc": "3, 6, 9 gül, papatya ve karışık seçeneklerle farklı buket tasarımları."
+    },
+    {
+      "title": "Yapay Çiçekler",
+      "desc": "Uzun süre kullanılabilen yapay buket, dekorasyon ve hediye tasarımları."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Güven veren hizmetiniz var mı?",
+      "a": "Sipariş öncesi ürün, hazırlama ve teslimat detaylarını açıkça paylaşır; özel talepler için iletişim kurarız."
+    },
+    {
+      "q": "Buketlerinizin içi dolgun mu?",
+      "a": "Buket yoğunluğu ürünün seçimine göre hazırlanır. İsterseniz daha dolgun bir tasarım talep edebilirsiniz."
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "name": "Zambak",
+      "price": 550,
+      "discountPercent": 0,
+      "cat": "Demet Çiçekler",
+      "img": "/uploads/1790430158810-4ae8cb3f4db8.png",
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72vjoaZk7u36AMU2ko3oJFv-8yJ144EYxzp38N4_Vrau1Z1-rN6-o9oZdiaqz3vJ6ywFSQRsMtNchuGVRwVt-NBvJnD38gMgj5s9Sc4doVSa305nXiwYaO2RBI7B_G9ZxWDxeGw9_cWlllx46XU-mRPKoLT_aEGIGH0j80JaLhOXZMSJIKICNbPqDTRiSHe536oZqyryqIz-qX4fuBIfwkZ6PoGsDs9ofVF4ppK1IHQ%3Dw1280",
+        "/uploads/1790430162387-d8a86d1a3800.jpg",
+        "/uploads/1790430164306-053a076291dd.png",
+        "/uploads/1790430167565-affb737a32c6.jpg"
+      ],
+      "desc": "Gösterişli zambak demeti, özel günler için.",
+      "published": true,
+      "featured": false,
+      "todayDelivery": true,
+      "isAddon": false,
+      "stockStatus": "in_stock",
+      "variants": [],
+      "extras": []
+    },
+    {
+      "id": 4,
+      "name": "Lale",
+      "price": 600,
+      "cat": "Demet Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72vjoaZk7u36AMU2ko3oJFv-8yJ144EYxzp38N4_Vrau1Z1-rN6-o9oZdiaqz3vJ6ywFSQRsMtNchuGVRwVt-NBvJnD38gMgj5s9Sc4doVSa305nXiwYaO2RBI7B_G9ZxWDxeGw9_cWlllx46XU-mRPKoLT_aEGIGH0j80JaLhOXZMSJIKICNbPqDTRiSHe536oZqyryqIz-qX4fuBIfwkZ6PoGsDs9ofVF4ppK1IHQ%3Dw1280",
+      "desc": "Mevsimine göre farklı renklerde hazırlanabilen lale demeti.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72vjoaZk7u36AMU2ko3oJFv-8yJ144EYxzp38N4_Vrau1Z1-rN6-o9oZdiaqz3vJ6ywFSQRsMtNchuGVRwVt-NBvJnD38gMgj5s9Sc4doVSa305nXiwYaO2RBI7B_G9ZxWDxeGw9_cWlllx46XU-mRPKoLT_aEGIGH0j80JaLhOXZMSJIKICNbPqDTRiSHe536oZqyryqIz-qX4fuBIfwkZ6PoGsDs9ofVF4ppK1IHQ%3Dw1280"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Orkide",
+      "price": 750,
+      "cat": "Demet Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72v-Ff_mXW9VuSew86qqqLXC_081NIlHqA9-XWDew5RD7P1vJjdkrYzLw1yr08DJfgSGKL84oNuQWyYApCQ8QrwetAmarX91zs11RBVsnRg0hrywUIfoJojnrkwExqxY-b6lwVx0aSi-s4ct8rdo_qopeZDlYS08ZPOS1N9p4_L4HRcCKC7xs270KxCKlwKEQsiUEKnEe6bcVm6J-DqThHdmvxUIfoBMh_Rko4e8ai8%3Dw1280",
+      "desc": "Zarif orkide dallarıyla hazırlanmış şık aranjman.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72v-Ff_mXW9VuSew86qqqLXC_081NIlHqA9-XWDew5RD7P1vJjdkrYzLw1yr08DJfgSGKL84oNuQWyYApCQ8QrwetAmarX91zs11RBVsnRg0hrywUIfoJojnrkwExqxY-b6lwVx0aSi-s4ct8rdo_qopeZDlYS08ZPOS1N9p4_L4HRcCKC7xs270KxCKlwKEQsiUEKnEe6bcVm6J-DqThHdmvxUIfoBMh_Rko4e8ai8%3Dw1280"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "2 Dal Beyaz Orkide",
+      "price": 1200,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72v-Ff_mXW9VuSew86qqqLXC_081NIlHqA9-XWDew5RD7P1vJjdkrYzLw1yr08DJfgSGKL84oNuQWyYApCQ8QrwetAmarX91zs11RBVsnRg0hrywUIfoJojnrkwExqxY-b6lwVx0aSi-s4ct8rdo_qopeZDlYS08ZPOS1N9p4_L4HRcCKC7xs270KxCKlwKEQsiUEKnEe6bcVm6J-DqThHdmvxUIfoBMh_Rko4e8ai8%3Dw1280",
+      "desc": "İki dallı beyaz orkide, sade saksı sunumuyla.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72v-Ff_mXW9VuSew86qqqLXC_081NIlHqA9-XWDew5RD7P1vJjdkrYzLw1yr08DJfgSGKL84oNuQWyYApCQ8QrwetAmarX91zs11RBVsnRg0hrywUIfoJojnrkwExqxY-b6lwVx0aSi-s4ct8rdo_qopeZDlYS08ZPOS1N9p4_L4HRcCKC7xs270KxCKlwKEQsiUEKnEe6bcVm6J-DqThHdmvxUIfoBMh_Rko4e8ai8%3Dw1280"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pink Elegance",
+      "price": 1250,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72scoBKWa_Ct5Jj_rhYx6-1U12bZOWF3lub7gZpy1wxn39c_H49yt1uTn54LreD57jsvg7kpoI0OZ4H3h0YhdPOo3XR1dWWnA5JLON-ARxVZIbBQg9vZbnfXQ4r6X3n_HcSR38EgaerkOBMATp42loAibLpqm90ODIdYW-QLNF9O18dErQPPTECFSd810X2KZRuEC1S-4wa6xgq85apx6jxIy8KzFj7UBFlNdygZHHU%3Dw1280",
+      "desc": "Pembe tonlu orkide tasarımı, zarif hediye seçeneği.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72scoBKWa_Ct5Jj_rhYx6-1U12bZOWF3lub7gZpy1wxn39c_H49yt1uTn54LreD57jsvg7kpoI0OZ4H3h0YhdPOo3XR1dWWnA5JLON-ARxVZIbBQg9vZbnfXQ4r6X3n_HcSR38EgaerkOBMATp42loAibLpqm90ODIdYW-QLNF9O18dErQPPTECFSd810X2KZRuEC1S-4wa6xgq85apx6jxIy8KzFj7UBFlNdygZHHU%3Dw1280"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Golden Orchid",
+      "price": 1350,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72sb5LcD980Bd8jeR08nRfrzWsarSNFvOqx3WZPZHQUu8mZhjsrtTEme8gwSv27jrFx4oWnK3fAgg9pCYZRyIjMs7dWe1sQcu6JmPkta-cNSp4g240zhBsNwvPdl3z7pQZ0MoRUNIzYq8ZQl2rAuy-oUgdc7H5ew5a7R4gS3AECa28Ts_U5NrueZ5TZJTNkqE3O5N0HvJdnR6OBnCRHGc2tLlSGMkDrgVV5u6FvH%3Dw1280",
+      "desc": "Altın tonlarıyla dikkat çeken gösterişli orkide.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72sb5LcD980Bd8jeR08nRfrzWsarSNFvOqx3WZPZHQUu8mZhjsrtTEme8gwSv27jrFx4oWnK3fAgg9pCYZRyIjMs7dWe1sQcu6JmPkta-cNSp4g240zhBsNwvPdl3z7pQZ0MoRUNIzYq8ZQl2rAuy-oUgdc7H5ew5a7R4gS3AECa28Ts_U5NrueZ5TZJTNkqE3O5N0HvJdnR6OBnCRHGc2tLlSGMkDrgVV5u6FvH%3Dw1280"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Royal Amethyst",
+      "price": 1100,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72slteakr89HEjV0qtwPZkFHHBJRtMzwBkinjHQ-zYT7XXibydk5VuTAQyKySClu3NtEV6z6IySVUZm0l-s-Z-NN0kwc47i6_SgjPnrL0CrKh8R2xQVIuanvhj9YVgQl9DeYLoHb6oKN_XkxuwNpkSINn4OPzbGMmo8ZcXqsNMbEVR3G0qS5RsdeG0S5fjQw3aXJcO06_qLgm9jiasC1Mzv5MOwaL8xMnJU9yF5r%3Dw1280",
+      "desc": "Mor tonların öne çıktığı asil görünümlü bitki tasarımı.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72slteakr89HEjV0qtwPZkFHHBJRtMzwBkinjHQ-zYT7XXibydk5VuTAQyKySClu3NtEV6z6IySVUZm0l-s-Z-NN0kwc47i6_SgjPnrL0CrKh8R2xQVIuanvhj9YVgQl9DeYLoHb6oKN_XkxuwNpkSINn4OPzbGMmo8ZcXqsNMbEVR3G0qS5RsdeG0S5fjQw3aXJcO06_qLgm9jiasC1Mzv5MOwaL8xMnJU9yF5r%3Dw1280"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Blue Mirage",
+      "price": 1150,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72vhqvAUnjnht3FjeEni1X1Z9WjSi8DSIyLEzAh4aE6PdJx8WfHGHYqJrdYfOxXkFrFbgyPE6mJLqbbc03nAh-6l79JLG7RpVgj82QhNmsnL7WgkkLePiqlafRfyi8S0IE1BAWkv9dE4M8KyKHPdQZLZviheNw2dGKkUXsr06WTPBqivYRb920gkybp7458IILvfqxAMg6p9dVHQjasieZqun3fSWCdqrHAWLHAjDDk%3Dw1280",
+      "desc": "Mavi tonlarıyla farklı ve modern bir saksı çiçeği.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72vhqvAUnjnht3FjeEni1X1Z9WjSi8DSIyLEzAh4aE6PdJx8WfHGHYqJrdYfOxXkFrFbgyPE6mJLqbbc03nAh-6l79JLG7RpVgj82QhNmsnL7WgkkLePiqlafRfyi8S0IE1BAWkv9dE4M8KyKHPdQZLZviheNw2dGKkUXsr06WTPBqivYRb920gkybp7458IILvfqxAMg6p9dVHQjasieZqun3fSWCdqrHAWLHAjDDk%3Dw1280"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Yasemin",
+      "price": 650,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72urMc6zSiHXId4xfVADaXl8eam2OWGI2jggHSA4hfiVrrv8ibsRi1Gf6UzjjAuW9a2h9TDN46IUr23h0eaiorYbdwnufD4dMz2NmLQM64KBMd8lxmk8YXn71vUGquIvXtZ9UtceIm8ok3lkwgGLZQ7X1NSC3Txp85uZt_M69v5Ge4p9KDP3Nwb3LlXLRPJ2FO0HRc_D2OFPoj0DyHqqDoKyxRt5CEWQq8Y1X1lt%3Dw1280",
+      "desc": "Zarif yaprakları ve hoş görünümüyle yasemin.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72urMc6zSiHXId4xfVADaXl8eam2OWGI2jggHSA4hfiVrrv8ibsRi1Gf6UzjjAuW9a2h9TDN46IUr23h0eaiorYbdwnufD4dMz2NmLQM64KBMd8lxmk8YXn71vUGquIvXtZ9UtceIm8ok3lkwgGLZQ7X1NSC3Txp85uZt_M69v5Ge4p9KDP3Nwb3LlXLRPJ2FO0HRc_D2OFPoj0DyHqqDoKyxRt5CEWQq8Y1X1lt%3Dw1280"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Kırmızı Antoryum",
+      "price": 850,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72v4nEjH-luZw7gYBMTgcf8L_8IJG4yODSpKtIhY5D-0kBQS_1EXVP-Oy--ubuakpxnDMmPFs2zVWdVOeFfO97BvCNYQ198DxYjLag9lCd4VXEa7NuPn6TyrCxV0X8J5MVb5UXCANycNQTDqtDreRcbOt7wuJ3AYZ7TagVMmAZFNyZbcomf8TyGCXiDBUaHWedWSDJbadsLsIWKkW3a3w9UvKb-eTRO4bpFHh-G1VW0%3Dw1280",
+      "desc": "Canlı kırmızı çiçekleriyle modern antoryum.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72v4nEjH-luZw7gYBMTgcf8L_8IJG4yODSpKtIhY5D-0kBQS_1EXVP-Oy--ubuakpxnDMmPFs2zVWdVOeFfO97BvCNYQ198DxYjLag9lCd4VXEa7NuPn6TyrCxV0X8J5MVb5UXCANycNQTDqtDreRcbOt7wuJ3AYZ7TagVMmAZFNyZbcomf8TyGCXiDBUaHWedWSDJbadsLsIWKkW3a3w9UvKb-eTRO4bpFHh-G1VW0%3Dw1280"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Crimson Touch Sansevieria (Paşa Kılıcı)",
+      "price": 700,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72soIthp4ewHgRvKI_ytxncTxWI5UV_D3VdhStIHusoOzYFDm382h06YCrKCQVyfhk8KNpspr6-bnaM7USQk0CTEjced5_BnyOXJaJwxeQM7JuWrdcGaYOO__aUQGDgJYMSwr0-mq923n4-R899HCrNt-YANDVld9-BTHE5TxWqvtt2W7x-oB1bFYJF35ADFfDGNYPZBFdghVnJioeuju4pWgNE_cejf45fhwleg%3Dw1280",
+      "desc": "Dayanıklı ve dekoratif Paşa Kılıcı tasarımı.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72soIthp4ewHgRvKI_ytxncTxWI5UV_D3VdhStIHusoOzYFDm382h06YCrKCQVyfhk8KNpspr6-bnaM7USQk0CTEjced5_BnyOXJaJwxeQM7JuWrdcGaYOO__aUQGDgJYMSwr0-mq923n4-R899HCrNt-YANDVld9-BTHE5TxWqvtt2W7x-oB1bFYJF35ADFfDGNYPZBFdghVnJioeuju4pWgNE_cejf45fhwleg%3Dw1280"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Kırmızı Guzmania",
+      "price": 800,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72sgXX223Hg_-rj5_Ie9s2gS4E-Z4nr0Af0H62xpSiQNtpCY0ydQ_KzXUWN2z5MUiwdmXVpAUX4rnELXRKPT4lmriTZm5RrNAYmfnRaeb1lWXVtr_LYUXcXZ-m_dXLBB6bCr3zpsnOjzpiGYzgPmOP8zdmfm2I1y8M-8mJOvWRVnUpjymnxS1wjDAxrjgpuB80CMJ3kNtCMH7Lo62FH6z_Y0WuXCttxZ8Kv3Kh-a%3Dw1280",
+      "desc": "Kırmızı çiçek başlığıyla dikkat çeken guzmania.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72sgXX223Hg_-rj5_Ie9s2gS4E-Z4nr0Af0H62xpSiQNtpCY0ydQ_KzXUWN2z5MUiwdmXVpAUX4rnELXRKPT4lmriTZm5RrNAYmfnRaeb1lWXVtr_LYUXcXZ-m_dXLBB6bCr3zpsnOjzpiGYzgPmOP8zdmfm2I1y8M-8mJOvWRVnUpjymnxS1wjDAxrjgpuB80CMJ3kNtCMH7Lo62FH6z_Y0WuXCttxZ8Kv3Kh-a%3Dw1280"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Lavender Whisper",
+      "price": 800,
+      "cat": "Saksı Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72uoyjlMmnNt4xRT1la7lltY-2_bI8amgoZsMpK5qrZclF-5OkE-Nbd5nifJcCY7wO0x6_uJWnjfI5xsTMGXBunYCHQP1NN6tSASZFuKMwiNhcwkQzL7YnuKpQ9u8VZkrsJf5x7QW06G-UTKS3___xHSXsjcnzamheawClXxYNP8zCq-wt2DNKiDlrmQb01nw2gPP_B8wn_5Q369L-azjKnWqGxg0HcP-G7MDfz275c%3Dw1280",
+      "desc": "Lavanta tonlarında yumuşak ve zarif bitki seçeneği.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72uoyjlMmnNt4xRT1la7lltY-2_bI8amgoZsMpK5qrZclF-5OkE-Nbd5nifJcCY7wO0x6_uJWnjfI5xsTMGXBunYCHQP1NN6tSASZFuKMwiNhcwkQzL7YnuKpQ9u8VZkrsJf5x7QW06G-UTKS3___xHSXsjcnzamheawClXxYNP8zCq-wt2DNKiDlrmQb01nw2gPP_B8wn_5Q369L-azjKnWqGxg0HcP-G7MDfz275c%3Dw1280"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "White Calm – Beyaz Papatya Buketi",
+      "price": 650,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72vUkMIlZmQUr5NrilQWCxexRogcnro15fIzq0TYYLB1QB3ak_5NifN8nyzTyeDucXnKpBHVLCAgMHybBmomoFoTZmfbpOykQVhQaGuHHF7ii6Db7q4ydEqblH2Q3AoJlXh2judteVnYutu8pAauA8WGUiAQd-autG02SeP-nB-sEA3M8SHV4EmB79Y0jo4UADC-8tc-LqX3WSRTmqzwi_PrB7YT4EpXE3m-3Qmw%3Dw1280",
+      "desc": "Beyaz papatyaların sade ve sakin yorumu.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72vUkMIlZmQUr5NrilQWCxexRogcnro15fIzq0TYYLB1QB3ak_5NifN8nyzTyeDucXnKpBHVLCAgMHybBmomoFoTZmfbpOykQVhQaGuHHF7ii6Db7q4ydEqblH2Q3AoJlXh2judteVnYutu8pAauA8WGUiAQd-autG02SeP-nB-sEA3M8SHV4EmB79Y0jo4UADC-8tc-LqX3WSRTmqzwi_PrB7YT4EpXE3m-3Qmw%3Dw1280"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Pure Elegance – Beyaz Papatya Buketi",
+      "price": 700,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72vaWZkkkx3Ki38kqURCxaO0gyl82ZAr5XA5MxBBkZVVnWHhu4LD3c-TifbBNoJCGEf2eJohvzgd7bunAwdmUqvL-b62VIARqtJSWBWX9R_XNsgHQFXG8B4KhCyLoBexiPz1y5R21HMqh3s3AhCfrTyLtE5XDwiX3LBqNOqUCEWfY5q3DWTQoi_lKkeR50bE8hsOKGiAv11TLUEvPZq3FB7SUKLxS-kWSXC8kloACuc%3Dw1280",
+      "desc": "Daha dolgun ve zarif beyaz papatya buketi.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72vaWZkkkx3Ki38kqURCxaO0gyl82ZAr5XA5MxBBkZVVnWHhu4LD3c-TifbBNoJCGEf2eJohvzgd7bunAwdmUqvL-b62VIARqtJSWBWX9R_XNsgHQFXG8B4KhCyLoBexiPz1y5R21HMqh3s3AhCfrTyLtE5XDwiX3LBqNOqUCEWfY5q3DWTQoi_lKkeR50bE8hsOKGiAv11TLUEvPZq3FB7SUKLxS-kWSXC8kloACuc%3Dw1280"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ruby Whisper – Kırmızı Gül ve Papatya Buketi",
+      "price": 900,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72vDVtI54alK8Z22P8_mOUObU-j-SHh-Ku6-h3TKGU-6yLJo6Xu0f9yVknxaqN0OoebLL_44RIY6Imn28yy2YSI875i78C_lFQ9RrxYVnKaBrwgiUE2LOVIxn5lw-zC55jJ11sQmcv-2H2KhjE3F4og5WxwlPgy5mijS8m4d2pWB-R5r3NCGfk_wm5qpOwLZTLh3LeAoXAoaPF_Cq1mcl6Gbq1_FD2CTq4s-fE0YGnI%3Dw1280",
+      "desc": "Kırmızı güller ve beyaz papatyaların dengeli birlikteliği.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72vDVtI54alK8Z22P8_mOUObU-j-SHh-Ku6-h3TKGU-6yLJo6Xu0f9yVknxaqN0OoebLL_44RIY6Imn28yy2YSI875i78C_lFQ9RrxYVnKaBrwgiUE2LOVIxn5lw-zC55jJ11sQmcv-2H2KhjE3F4og5WxwlPgy5mijS8m4d2pWB-R5r3NCGfk_wm5qpOwLZTLh3LeAoXAoaPF_Cq1mcl6Gbq1_FD2CTq4s-fE0YGnI%3Dw1280"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Pastel Charm – Şeftali Karanfil ve Lila Papatya Buketi",
+      "price": 850,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72t0VHGItXf0dUijI83EVPn7VsBxrth3hc_jXt9jV1G_jiAaHXdA51iT2KKDJ08zwi_yS-GScYEwlKO-KJvvpl3lPqASwWvZmrgfy7iW3LgQFmGrrowwqxWjV2B96cD2ZldSsAldzPbB2W3ueUoJ4eYQpCM8VCyDVkppzrSFA336DjMpbgeCaOKY3Gfu-jGaLivEkSaeksa26cLgdibUOhFUH1VULDLyMNeg1sJ6%3Dw1280",
+      "desc": "Pastel tonlarda romantik ve yumuşak bir buket.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72t0VHGItXf0dUijI83EVPn7VsBxrth3hc_jXt9jV1G_jiAaHXdA51iT2KKDJ08zwi_yS-GScYEwlKO-KJvvpl3lPqASwWvZmrgfy7iW3LgQFmGrrowwqxWjV2B96cD2ZldSsAldzPbB2W3ueUoJ4eYQpCM8VCyDVkppzrSFA336DjMpbgeCaOKY3Gfu-jGaLivEkSaeksa26cLgdibUOhFUH1VULDLyMNeg1sJ6%3Dw1280"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pastel Harmony – Beyaz Papatya & Pembe Gerbera Buketi",
+      "price": 850,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72shK09m5vLlJKPOivJtKrKbyrAHyq-RSO6L1LqLqF489dew9OWN1Q9PvaNoceKZeUPyHepClLqwk_bDS2pD1UfU_OmrGpiail8jAH4p4FILp2Dq-u3gJzk_CFI64lX717QIN8feEO84HM0Zyw9I2Dy5wbst_CzbbHZU725Kx9ZPrucBXmRUp7iWdNMGvAx_z7sibdY376d25M6A9gP2uiTHjI68YoNv5Pk4wbTHwEE%3Dw1280",
+      "desc": "Beyaz ve pembe tonların canlı, ferah birleşimi.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72shK09m5vLlJKPOivJtKrKbyrAHyq-RSO6L1LqLqF489dew9OWN1Q9PvaNoceKZeUPyHepClLqwk_bDS2pD1UfU_OmrGpiail8jAH4p4FILp2Dq-u3gJzk_CFI64lX717QIN8feEO84HM0Zyw9I2Dy5wbst_CzbbHZU725Kx9ZPrucBXmRUp7iWdNMGvAx_z7sibdY376d25M6A9gP2uiTHjI68YoNv5Pk4wbTHwEE%3Dw1280"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Bahar Neşesi – Karışık Mevsim Çiçekleri Buketi",
+      "price": 900,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72vDVtI54alK8Z22P8_mOUObU-j-SHh-Ku6-h3TKGU-6yLJo6Xu0f9yVknxaqN0OoebLL_44RIY6Imn28yy2YSI875i78C_lFQ9RrxYVnKaBrwgiUE2LOVIxn5lw-zC55jJ11sQmcv-2H2KhjE3F4og5WxwlPgy5mijS8m4d2pWB-R5r3NCGfk_wm5qpOwLZTLh3LeAoXAoaPF_Cq1mcl6Gbq1_FD2CTq4s-fE0YGnI%3Dw1280",
+      "desc": "Mevsim çiçekleriyle renkli ve enerjik bir tasarım.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72vDVtI54alK8Z22P8_mOUObU-j-SHh-Ku6-h3TKGU-6yLJo6Xu0f9yVknxaqN0OoebLL_44RIY6Imn28yy2YSI875i78C_lFQ9RrxYVnKaBrwgiUE2LOVIxn5lw-zC55jJ11sQmcv-2H2KhjE3F4og5WxwlPgy5mijS8m4d2pWB-R5r3NCGfk_wm5qpOwLZTLh3LeAoXAoaPF_Cq1mcl6Gbq1_FD2CTq4s-fE0YGnI%3Dw1280"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Autumn Velvet – Krizantem ve Karanfil Buketi",
+      "price": 850,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72tP91Lx02IcAH4jq63cuhNCHX54SYe487MJwOe3ZZ2U_TJCk73qEVPl2BWwj6KJ5qxQN5NQ2LQrHyyke4txxbPk-jPFqSzBYjCMFtyq2fcxxn2EGXB6X4Gs9HDPlXWyTKBUmtOGFcz3oePlHcqaFARIrSocQa9zadSB6AlwmNSbaUxPdaX9GfpKo1PZfezwnX2qtyqc6EqJIqp-ZthTv1Wz-twSSS5i3QiBfQQoys4%3Dw1280",
+      "desc": "Sıcak tonlarda krizantem ve karanfil ağırlıklı buket.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72tP91Lx02IcAH4jq63cuhNCHX54SYe487MJwOe3ZZ2U_TJCk73qEVPl2BWwj6KJ5qxQN5NQ2LQrHyyke4txxbPk-jPFqSzBYjCMFtyq2fcxxn2EGXB6X4Gs9HDPlXWyTKBUmtOGFcz3oePlHcqaFARIrSocQa9zadSB6AlwmNSbaUxPdaX9GfpKo1PZfezwnX2qtyqc6EqJIqp-ZthTv1Wz-twSSS5i3QiBfQQoys4%3Dw1280"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Snow Romance – Tek Kırmızı Gül & Beyaz Papatya",
+      "price": 500,
+      "cat": "Buket Çiçekler",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72ta_RVkB5Jpb_fz5_WfXLs_W95YsV5aw6wzdjaB08Qy2d0N2-kb81oxtxCOQKRCcIGcgFnK4KmjC3Nldewy0Kdu_angJgECevoxQv_WSzjGPsgMuVkJ5PR6nRsmSB9wd2Hhoj_MgjuWXhyHvg20tUGH8R77O97ZUVXWFrEyhYqqLAoIqu-b6VjXBatnOLisebqb0WQiHjKtz3a-ePO487sIkPrFZ7sae7T1FvOThjE%3Dw1280",
+      "desc": "Tek kırmızı gülün öne çıktığı sade romantik buket.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72ta_RVkB5Jpb_fz5_WfXLs_W95YsV5aw6wzdjaB08Qy2d0N2-kb81oxtxCOQKRCcIGcgFnK4KmjC3Nldewy0Kdu_angJgECevoxQv_WSzjGPsgMuVkJ5PR6nRsmSB9wd2Hhoj_MgjuWXhyHvg20tUGH8R77O97ZUVXWFrEyhYqqLAoIqu-b6VjXBatnOLisebqb0WQiHjKtz3a-ePO487sIkPrFZ7sae7T1FvOThjE%3Dw1280"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Mum",
+      "price": 150,
+      "cat": "Doğum Günü Süsleri",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72ssiWnZBvEG4BWs6vsCLcnYcgPQjseIvIMMo3iIvI_5vPHsjPLIvrrdeUdS4AuwNwEMYUEvW-GFWeNMZ7MxQaRlZ34ths_sirpONbOgDZdPYVpx4iczpdx-3I9dAzCGxSdCtNQbWolftLX78YVNVD-u0KJYaVYvmt4UPKZIlYTgSUJ-_A9w6WC5P6djL1agvsg5Gg3jcxsGR6MngV1St0UexUyKo7QhxoWAwgT6tNc%3Dw1280",
+      "desc": "Doğum günü tasarımlarına uygun mum ve tamamlayıcı süsleme.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72ssiWnZBvEG4BWs6vsCLcnYcgPQjseIvIMMo3iIvI_5vPHsjPLIvrrdeUdS4AuwNwEMYUEvW-GFWeNMZ7MxQaRlZ34ths_sirpONbOgDZdPYVpx4iczpdx-3I9dAzCGxSdCtNQbWolftLX78YVNVD-u0KJYaVYvmt4UPKZIlYTgSUJ-_A9w6WC5P6djL1agvsg5Gg3jcxsGR6MngV1St0UexUyKo7QhxoWAwgT6tNc%3Dw1280"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Harfler",
+      "price": 250,
+      "cat": "Doğum Günü Süsleri",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72sjQMh4edxR9sdMJF3xrbCpNG4UvhmTs37lAwlWmNiMkYdTsyMErofnaxxIei_fuwvjLa2t6QlQvAQxFvyvQpTSYF1Ed6NfD10XjUkx75o0ZHWf1F4vkyYrbZzPMhmDrUCmPqYTjTMsTw-yZhZRwpUjPdFR52KOFzqs6oMNdDMwr4ZFXbxLIgnq8262AzvpawmPcZPPsSoo8CModJtKcAlEkW6c-yWIecZVtSEFM8I%3Dw1280",
+      "desc": "İsim ve mesajlara göre harfli doğum günü süsleme.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72sjQMh4edxR9sdMJF3xrbCpNG4UvhmTs37lAwlWmNiMkYdTsyMErofnaxxIei_fuwvjLa2t6QlQvAQxFvyvQpTSYF1Ed6NfD10XjUkx75o0ZHWf1F4vkyYrbZzPMhmDrUCmPqYTjTMsTw-yZhZRwpUjPdFR52KOFzqs6oMNdDMwr4ZFXbxLIgnq8262AzvpawmPcZPPsSoo8CModJtKcAlEkW6c-yWIecZVtSEFM8I%3Dw1280"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sayılar",
+      "price": 250,
+      "cat": "Doğum Günü Süsleri",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72s8SqDu9T03Vlj5XRUX2-It3LoLerfAjUgE6DTP_u7AYfUIUGlV7iBHgF3ODloNXyuE49QtrbKRskK7WX-rCdagXdWzMfpqtSteEMLhvf2EwFh9ZAiSMZbipWwm8W9UYBxhuJKmoRNxSvkeZNZu4-53bYChXyl1_tvVE4HM-dfpv-rpZeoYuRUPqWUZM2iocx1yroESaS3DjT780ViIfM4YyJw59u9j4wqX-EAD3Y4%3Dw1280",
+      "desc": "Yaşa özel sayı dekorları ve masa üstü tamamlayıcıları.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72s8SqDu9T03Vlj5XRUX2-It3LoLerfAjUgE6DTP_u7AYfUIUGlV7iBHgF3ODloNXyuE49QtrbKRskK7WX-rCdagXdWzMfpqtSteEMLhvf2EwFh9ZAiSMZbipWwm8W9UYBxhuJKmoRNxSvkeZNZu4-53bYChXyl1_tvVE4HM-dfpv-rpZeoYuRUPqWUZM2iocx1yroESaS3DjT780ViIfM4YyJw59u9j4wqX-EAD3Y4%3Dw1280"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Takımlı Süsleme",
+      "price": 450,
+      "cat": "Doğum Günü Süsleri",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72s_tDzBgzPg0Axvz2CRCNyiw9fYBiVYd8z2ECYbbJATKIl7jN8adPy7AWgERuD1RVkcdIKEnQCNMvQNt0_dIepHlvPVgSWijCY3Gxn_Sli2GiljqaVAsL6OE6b9KuUrTWYRTf7BsFninU78V3pzLrzFbgmNzrMm6llMbv9rNnfyZjLBbYUfFJIMblhJF6S5X-cv29bS3S8_ng3IJUjgFnz0uVVr0Yo-XNNx7ZNh9TE%3Dw1280",
+      "desc": "Konsepte göre takım halinde doğum günü süslemesi.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72s_tDzBgzPg0Axvz2CRCNyiw9fYBiVYd8z2ECYbbJATKIl7jN8adPy7AWgERuD1RVkcdIKEnQCNMvQNt0_dIepHlvPVgSWijCY3Gxn_Sli2GiljqaVAsL6OE6b9KuUrTWYRTf7BsFninU78V3pzLrzFbgmNzrMm6llMbv9rNnfyZjLBbYUfFJIMblhJF6S5X-cv29bS3S8_ng3IJUjgFnz0uVVr0Yo-XNNx7ZNh9TE%3Dw1280"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Süper Kahraman Süsleme",
+      "price": 600,
+      "cat": "Doğum Günü Süsleri",
+      "img": "https://sites.google.com/sitesv-images-rt/AMxu72srRDdwCiBB4Btw9U7pQpiVrvlIGAsp9d_xsV1XENfLR6Z7PnodxN7LwwQHPlL2ZFGCggOUtXltic9ajzxg-Cn51KD5TCjW9CtRhqT7T75Jj4R9RklQZBBGGGOjwI05k2d6J5x38CWLU_-lWlscz7y_byN1xGSn5sUBKw3w8YI3o8YoV7s7W8w61BslOcw%3Dw1280",
+      "desc": "Çocuk doğum günleri için temalı süper kahraman süslemesi.",
+      "discountPercent": 0,
+      "stockStatus": "in_stock",
+      "todayDelivery": true,
+      "variants": [],
+      "extras": [],
+      "images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72srRDdwCiBB4Btw9U7pQpiVrvlIGAsp9d_xsV1XENfLR6Z7PnodxN7LwwQHPlL2ZFGCggOUtXltic9ajzxg-Cn51KD5TCjW9CtRhqT7T75Jj4R9RklQZBBGGGOjwI05k2d6J5x38CWLU_-lWlscz7y_byN1xGSn5sUBKw3w8YI3o8YoV7s7W8w61BslOcw%3Dw1280"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "merchant_oid": "KEYMEL-1790430221305-CAEA",
+      "status": "payment_pending",
+      "createdAt": "2026-09-26T13:43:41.306Z",
+      "customer": {
+        "name": "sfsdfds",
+        "phone": "4124124215235",
+        "email": "sarhmoon@hotmail.com",
+        "address": "Kocasinan Mahallesi, Acı Çeşme Sk. No:64/A1, eski itfaiye karşısı köşe, 39750 Lüleburgaz/Kırklareli",
+        "city": "Kırklareli",
+        "district": "Lüleburgaz",
+        "recipientName": "sdf",
+        "recipientPhone": "12412412414",
+        "cardMessage": "sdfsd",
+        "anonymous": true,
+        "note": ""
+      },
+      "items": [
+        {
+          "id": 3,
+          "name": "Zambak",
+          "qty": 1,
+          "unitPrice": 550,
+          "lineTotal": 550,
+          "variant": "",
+          "extras": []
+        }
+      ],
+      "subtotal": 550,
+      "deliveryFee": 0,
+      "total": 550,
+      "fulfillment": "pickup",
+      "deliveryDate": "2026-09-27",
+      "deliveryTime": "10:00",
+      "channel": "paytr"
+    }
+  ],
+  "nextProductId": 29,
+  "pushSubscriptions": []
+}
