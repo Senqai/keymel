@@ -1,0 +1,55 @@
+KEYMEL ÇİÇEKÇİLİK - KURULUM
+
+1) Node.js 20+ kurulu olmalı.
+2) Bu klasörde terminal açın:
+   npm install
+   npm start
+
+3) .env ayarları:
+   BASE_URL=https://alanadiniz.com
+   ADMIN_USER=admin
+   ADMIN_PASSWORD=GUCLU_BIR_SIFRE
+   ADMIN_SESSION_SECRET=UZUN_RASTGELE_SECRET
+
+   PAYTR_MERCHANT_ID=...
+   PAYTR_MERCHANT_KEY=...
+   PAYTR_MERCHANT_SALT=...
+   PAYTR_TEST_MODE=1
+
+4) PayTR panelinde Bildirim/Callback URL:
+   https://alanadiniz.com/api/paytr/callback
+
+5) Telefon push bildirimi (opsiyonel ama önerilir):
+   npx web-push generate-vapid-keys
+   çıkan anahtarları .env içine yazın:
+   VAPID_PUBLIC_KEY=...
+   VAPID_PRIVATE_KEY=...
+   VAPID_SUBJECT=mailto:39keymel39@gmail.com
+   Sunucuyu yeniden başlatın. Telefonda HTTPS üzerinden admin paneline girip
+   "Telefon Bildirimlerini Aç" düğmesine basın.
+
+6) Admin: /admin.html
+   Logo, favicon, banner, ürün, fiyat, indirim, stok, varyasyon, ekstra,
+   çalışma saatleri, teslimat/Gel-Al ve siparişler buradan yönetilir.
+
+NOTLAR
+- Lüleburgaz dışı online teslimat reddedilir ve WhatsApp iletişimi sunulur.
+- Gel-Al siparişlerinde teslimat ücreti yoktur.
+- Sipariş tutarı sunucuda yeniden hesaplanır.
+- Sipariş ancak PayTR callback doğrulamasından sonra Ödendi olur.
+- Canlı kullanımda PAYTR_TEST_MODE=0 yapılmalıdır.
+- Push bildirimleri için HTTPS gerekir.
+
+=== BU SÜRÜMDE EKLENEN KORUMALAR ===
+- Admin girişinde 5 hatalı denemeden sonra 15 dakika geçici kilit.
+- Admin oturum cookie'si HttpOnly + SameSite=Strict; production HTTPS'te Secure.
+- X-Content-Type-Options, X-Frame-Options, Referrer-Policy ve Permissions-Policy güvenlik başlıkları.
+- Görsel yükleme sadece JPG / PNG / WebP / GIF; SVG kabul edilmez. Maksimum 10 MB.
+- Her veri kaydından önce data/backups altında otomatik yedek; son 25 yedek tutulur.
+- Atomik JSON kaydı: önce geçici dosyaya yazılır, sonra ana veri dosyası değiştirilir.
+- Beklenmeyen API hataları kullanıcıya kontrollü mesaj döndürür.
+- Ödeme başarı animasyonu sadece PayTR callback'i siparişi paid yaptıktan sonra açılır.
+
+Canlıya almadan önce: npm install
+Ardından: npm start
+Production'da BASE_URL mutlaka gerçek HTTPS domain olmalıdır.

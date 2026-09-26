@@ -1,0 +1,7 @@
+KEYMEL YÖNETİM PANELİ
+
+Adres: /admin.html
+Kullanıcı adı: keymeladmin
+Şifre: KeymelPanel!39Lburgaz#2026
+
+Bu bilgiler .env dosyasına da yazılmıştır. Canlı sunucuda .env dosyasını herkese açık klasörde yayınlamayın.

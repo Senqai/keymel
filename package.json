@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "npx tailwindcss -i assets/css/tailwind.css -o assets/css/styles.css --minify"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "web-push": "^3.6.7"
+  }
+}
